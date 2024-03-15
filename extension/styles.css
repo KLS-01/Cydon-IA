@@ -1,0 +1,46 @@
+.silkscreen-regular {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cydonia-interface {
+    position: absolute;
+    top: 370px;
+    padding: 5px;
+
+    /* Stile di base */
+    width: 660px;
+    height: fit-content;
+    background-color: #ffffff;
+    border-width: 12px;
+    border-style: double;
+    border-radius: 0px;
+    border-color: #292b2c;
+    margin-top: 10px;
+
+    /* Centra il testo */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* font */
+    font-family: "Silkscreen";
+}
+
+.cydoniaLogo {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+#cydonia-button {
+    border-image-repeat: stretch;
+}
+
+.pixelated {
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 16px;
+}
