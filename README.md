@@ -31,7 +31,7 @@ Per installare e utilizzare Cydon-IA, seguire questi passaggi:
 2. Navigare nella directory del progetto: `cd cydon-ia`
 3. Installare le dipendenze Python utilizzando pip: `pip install -r requirements.txt`
 4. Avviare il server Flask: `python Main.py`
-5. Assicurarsi che l'estensione JavaScript sia abilitata nel gioco Pokémon per ricevere i suggerimenti delle mosse.
+5. Assicurarsi che l'estensione JavaScript sia abilitata nel browser per ricevere i suggerimenti delle mosse.
 
 ## Contributi e Segnalazione di Bug
 
